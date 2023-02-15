@@ -18,3 +18,19 @@ que es DDL:
 El lenguaje de definición de datos (DDL) es un lenguaje de computadora 
 utilizado para crear y modificar la estructura de los objetos de la base
 de datos en una base de datos
+
+Para que sirve el git status:
+
+sirve para ver todo los cambios 
+
+Para que sirve add .:
+
+sirve para añadir todos los cambio.
+
+para que sirve commit -m "menssaje":
+
+sirve para añadir un comentario 
+
+Para que sirve git push main:
+
+sirve para sincronizar los cambios	
